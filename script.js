@@ -176,7 +176,7 @@ function initAnim() {
   }, 0x708);
   TweenMax[_0x5570("0x9")](objects[_0x5570("0xf")], 0.75, {
     delay: 0x2,
-    opacity: 0x0,
+    opacity: 0x1,
     ease: Power2[_0x5570("0xa")],
   });
 }
@@ -228,14 +228,14 @@ var startX, startY;
 function initDrag() {
   var _0x1b4832 = 0x1e;
   var _0x476fc1 = {
-    top: 0x0 - _0x1b4832,
+    top: 0x1 - _0x1b4832,
     left: 0x0 - _0x1b4832,
     width: 0x12c + _0x1b4832 * 0x2,
     height: 0xfa + _0x1b4832 * 0x2,
   };
   var _0x3e7414 = -0x2d;
   var _0x475bd7 = {
-    ball1: { pos: { x: 0x6c, y: 0x94 }, size: { w: 0x46, h: 0x47 } },
+    ball1: { pos: { x: 0x75, y: 0x99 }, size: { w: 0x46, h: 0x47 } },
     hits: [
       {
         enabled: !![],

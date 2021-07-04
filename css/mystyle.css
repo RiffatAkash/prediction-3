@@ -4,7 +4,7 @@ body {
 }
 
 #adArea {
-	background: #ffcb06;
+	background:#008B8B;
     overflow: hidden;
     text-overflow: clip;
     cursor:pointer;
@@ -29,6 +29,8 @@ body {
 
 .dragItem{
     position: absolute;
+    /* top: 165px !important;
+    left: 115px !important; */
 }
 #ball{
     position: absolute;
